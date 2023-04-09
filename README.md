@@ -26,3 +26,22 @@ Functional Requierments:
   The app should keep a record of all the user's calls, including the duration, start and end time, and any notes added by the user.
   The app should allow the user to filter the call history and sort them by date, duration, or type of call.
   The user should be able to export the call history as a CSV file for backup purposes or to share with others.
+
+Non-Functional Requierments:
+- Usability:
+  The app should be intuitive and easy to use, with a simple and user-friendly interface. It should be designed with accessibility in mind, ensuring that it can be used by people with different abilities and disabilities.
+
+- Performance: 
+  The app should be fast and responsive, with minimal lag time when loading and executing tasks. It should be able to handle large amounts of data, such as call history records, without slowing down.
+
+- Security: 
+  The app should be secure, with strong data encryption and user authentication measures in place to protect users' personal and sensitive information.
+
+- Reliability:
+  The app should be reliable, with minimal downtime and maximum uptime. It should be able to handle unexpected errors and crashes without losing user data.
+
+- Scalability:
+  The app should be scalable, able to accommodate a growing number of users and increased usage over time without compromising its performance and reliability.
+
+- Support:
+  The app should have a support system in place to provide users with assistance and resolve any issues they may encounter. The support team should be responsive and knowledgeable, with clear communication channels and response times.
