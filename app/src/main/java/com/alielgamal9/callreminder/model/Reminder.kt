@@ -14,5 +14,7 @@ data class Reminder(
     val date: Date,
     val repeatType: RepeatType,
     val repeatInterval: Int,
-    val status: ReminderStatus
+    val status: ReminderStatus,
+    val reminderType: ReminderType,
+    val reminderAction: ReminderAction
 )
